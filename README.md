@@ -28,7 +28,7 @@ The project is organized into the following packages:
   - `CourseEnrollment.java` - Main class for course enrollment operations.
 
 - **`gradeManagement`**:
-  - `Student.java` - Represents a student (if needed separately from `studentManagement`).
+  - `Student.java` - Represents a student.
   - `Grade.java` - Represents grading details for students.
   - `GradingSystem.java` - Manages grading logic and operations.
   - `GradingSystemManagement.java` - Main class for managing grading operations.
